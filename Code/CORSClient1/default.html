@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scripts/jquery-2.0.3.js"></script>
+</head>
+<body>
+    <h3>CORS Request from Client 1</h3>
+    <input id="getPatients" type="button" value="Get Patients" name="getPatients"/>
+    <pre id="output"></pre>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            alert("In Jquery");
+            var url = "http://localhost:57966/api/patients";
+            $("#getPatients").click(function () {
+                alert("In click Event Handler");
+                $.get(url).always( function (object) {
+                    alert("In Response Handler");
+                    $("#output").text(JSON.stringify(object, null,4));
+                });
+                return false;
+            });
+        }
+        );
+
+    </script>
+</body>
+</html>

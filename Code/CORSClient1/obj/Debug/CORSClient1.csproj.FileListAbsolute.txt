@@ -1,0 +1,6 @@
+C:\Projects\ASP.Net\WebAPI\MVC5\BostonArchGrp\Demo\VS2013Demos\VS2013Demos\CORSClient1\bin\CORSClient1.dll.config
+C:\Projects\ASP.Net\WebAPI\MVC5\BostonArchGrp\Demo\VS2013Demos\VS2013Demos\CORSClient1\bin\CORSClient1.dll
+C:\Projects\ASP.Net\WebAPI\MVC5\BostonArchGrp\Demo\VS2013Demos\VS2013Demos\CORSClient1\bin\CORSClient1.pdb
+C:\Projects\ASP.Net\WebAPI\MVC5\BostonArchGrp\Demo\VS2013Demos\VS2013Demos\CORSClient1\obj\Debug\CORSClient1.csprojResolveAssemblyReference.cache
+C:\Projects\ASP.Net\WebAPI\MVC5\BostonArchGrp\Demo\VS2013Demos\VS2013Demos\CORSClient1\obj\Debug\CORSClient1.dll
+C:\Projects\ASP.Net\WebAPI\MVC5\BostonArchGrp\Demo\VS2013Demos\VS2013Demos\CORSClient1\obj\Debug\CORSClient1.pdb
